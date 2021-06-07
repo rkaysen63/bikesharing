@@ -25,7 +25,7 @@ NYC Citi Bike Manhattan records for the month of August were analyzed in order t
 
 ## Results:
     
-[Link to Story: NYC Citi Bike Challenge](https://public.tableau.com/app/profile/roseanne.kaysen/viz/NYCCitiBikeChallenge_16228486503390/DesMoinesCitiBikeProposal)
+[Link to Story: NYC Citi Bike Challenge](https://public.tableau.com/views/NYCCitiBikeChallenge_16228486503390/DesMoinesCitiBikeProposal?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <p align="center">
   <img src="Images/bikeshare_1.png" width="1000">
