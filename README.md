@@ -9,7 +9,7 @@
 
 ## Overview:
     
-NYC Citi Bike Manhattan records for the month of August were analyzed in order to determine the most likely usage and users if a similar bikesharing plan were initiated in the city of Des Moines Iowa.  Bikeshare benefits include convenience, no maintenance to the user, ability to travel greater distances in a shorter time than walking, ability to make frequent and impromptu stops, and no time wasted looking for a parking space.  Des Moines has various attractions to tourists such as a riverwalk.  Local subscribers would enjoy the convenience of travel between work and restaurants or home.
+NYC Citi Bike Manhattan records for the month of August were analyzed in order to determine the most likely usage and users if a similar bikesharing plan were initiated in the city of Des Moines, Iowa.  Bikeshare benefits include convenience, no maintenance to the user, ability to travel greater distances in a shorter time than walking, ability to make frequent and impromptu stops, and no time wasted looking for a parking space.  Des Moines has various attractions to tourists such as a riverwalk.  Local subscribers would enjoy the convenience of travel between work and restaurants or home.
 
 ## Resources 
     
