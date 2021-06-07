@@ -70,7 +70,7 @@ My recommendation would to perform this analysis on several cities of various si
 <p align="center">
   <img src="Images/dtypes.png" width="300">
 </p>
-
+ 
 
 3. Convert the 'tripduration' column to datetime datatype.
 
