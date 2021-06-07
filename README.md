@@ -13,7 +13,7 @@ NYC Citi Bike Manhattan records for the month of August were analyzed in order t
 
 ## Resources 
     
-* Data: https://www.citibikenyc.com/system-data
+* Data: https://www.citibikenyc.com/system-data (201908-citibike-tripdata.csv.zip)
 * Tools: 
   * Tableau
   * Jupyter Notebook
