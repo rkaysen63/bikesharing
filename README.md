@@ -23,9 +23,9 @@ NYC Citi Bike Manhattan records for the month of August were analyzed in order t
   * Attributed to By BarbaraLN - Flickr: Skyline, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=17089434
 
 ## Results:
-[Link to Story](https://public.tableau.com/app/profile/roseanne.kaysen/viz/NYCCitiBikeChallenge_16228486503390/DesMoinesCitiBikeProposal)
+[Link to Story: NYC Citi Bike Challenge](https://public.tableau.com/app/profile/roseanne.kaysen/viz/NYCCitiBikeChallenge_16228486503390/DesMoinesCitiBikeProposal)
 
-<p align="left">
+<p align="center">
   <img src="Images/bikeshare_1.png" width="1000">
   <img src="Images/bikeshare_2.png" width="1000">
   <img src="Images/bikeshare_3.png" width="1000">
@@ -54,28 +54,36 @@ My recommendation would to perform this analysis on several cities of various si
         citibike_data_to_load = "Resources/201908-citibike-tripdata.csv"
         citibike_df.head()
 
-<p align="left">
-  <img src="images/2011_surfing.png" width="100">
+<p align="center">
+  <img src="Images/citibike_df.png" width="800">
 </p>
 
 2. Check the datatypes of your columns. 
 
         citibike_df.dtypes
 
-***insert photo of dtypes here.
+<p align="center">
+  <img src="Images/dtypes.png" width="300">
+</p>
+
 
 3. Convert the 'tripduration' column to datetime datatype.
 
         citibike_df['tripduration_dtobj'] = pd.to_datetime(citibike_df['tripduration'], unit='s')
         citibike_df.head()
 
-***Insert photo of dataframe2 here
+<p align="center">
+  <img src="Images/citibike_df2.png" width="800">
+</p>
+
 
 4. Check the datatypes of your columns. 
 
         citibike_df.dtypes
         
-***insert photo of dtypes2 here.        
+<p align="center">
+  <img src="Images/dtypes2.png" width="300">
+</p>    
         
 5. Export the Dataframe as a new CSV file without the index.
 
@@ -87,5 +95,8 @@ My recommendation would to perform this analysis on several cities of various si
         citibike_df.head()
         
  
-***Insert photo of dataframe3 here
+<p align="center">
+  <img src="Images/citibike_df3.png" width="800">
+</p>
+
 [Back to the Table of Contents](https://github.com/rkaysen63/bikesharing/blob/master/README.md#table-of-contents)
