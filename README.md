@@ -30,8 +30,41 @@ Tableau
 
 
 
-## Summary
+## Summary:
 
+## Code:
+1. Create a DataFrame for the 201908-citibike-tripdata data.
 
+        import pandas as pd
+
+        # File to Load 
+        citibike_data_to_load = "Resources/201908-citibike-tripdata.csv"
+        citibike_df.head()
+
+***Insert photo of dataframe here
+
+2. Check the datatypes of your columns. 
+
+        citibike_df.dtypes
+
+***insert photo of dtypes here.
+
+3. Convert the 'tripduration' column to datetime datatype.
+
+        citibike_df['tripduration_dtobj'] = pd.to_datetime(citibike_df['tripduration'], unit='s')
+        citibike_df.head()
+
+***Insert photo of dataframe2 here
+
+4. Check the datatypes of your columns. 
+
+        citibike_df.dtypes
+        
+***insert photo of dtypes2 here.        
+        
+5. Export the Dataframe as a new CSV file without the index.
+
+        citibike_df.to_csv("Resources/201908_citibike_tripdata_revised.csv", index=False)      
+        
 
 [Back to the Table of Contents](https://github.com/rkaysen63/bikesharing/blob/master/README.md#table-of-contents)
