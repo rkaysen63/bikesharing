@@ -46,6 +46,8 @@ The data shows that males are more than twice as likely as females to ride.  In 
 
 The most popular days to ride are weekdays.  The most popular weekday hours are 5 - 7 p.m. followed by 8 to 9 a.m.  The users ride on weekends during the midday hours and generally more often on Saturday than Sunday.  Thursday has the most frequent trips.  The data indicates that perhaps in the Manhattan area, the users ride to and from work.
 
+The main costs associated with the proposal is the inital set up that include equipment purchases and app development and bike maintenance and repair.  Some bikes will require maintenance and repair more often than others in areas where usage tends to be higher.
+
 My recommendation would to perform this analysis on several cities of various sizes and in different regions to truly understand if these relationships are consistent or regional before making any conclusions about its applicability to Des Moines.
 
 ## Code:
