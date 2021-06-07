@@ -5,13 +5,14 @@
 * [Resources](https://github.com/rkaysen63/bikesharing/blob/master/README.md#resources)
 * [Results](https://github.com/rkaysen63/bikesharing/blob/master/README.md#results)
 * [Summary](https://github.com/rkaysen63/bikesharing/blob/master/README.md#summary)
-* [Code](https://github.com/rkaysen63/bikesharingblob/master/README.md#code)
+* [Code](https://github.com/rkaysen63/bikesharing/blob/master/README.md#code)
 
 ## Overview:
+    
 NYC Citi Bike Manhattan records for the month of August were analyzed in order to determine most likely usage and users if a similar bikesharing plan were initiated in the city of Des Moines Iowa.  Bikeshare benefits include convenience, no maintenance to the user, ability to travel greater distances in a shorter time than walking and without the hassle of driving and parking a car.  Des Moines has various attractions to tourists such as a riverwalk.  Local subscribers would enjoy the convenience of travel between work and restaurants or home.
 
 ## Resources 
-
+    
 * Data: https://www.citibikenyc.com/system-data
 * Tools: 
   * Tableau
@@ -23,6 +24,7 @@ NYC Citi Bike Manhattan records for the month of August were analyzed in order t
   * Attributed to By BarbaraLN - Flickr: Skyline, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=17089434
 
 ## Results:
+    
 [Link to Story: NYC Citi Bike Challenge](https://public.tableau.com/app/profile/roseanne.kaysen/viz/NYCCitiBikeChallenge_16228486503390/DesMoinesCitiBikeProposal)
 
 <p align="center">
@@ -39,6 +41,7 @@ NYC Citi Bike Manhattan records for the month of August were analyzed in order t
 </p>
 
 ## Summary:
+    
 The data shows that males are more than twice as likely as females to ride.  In Manhattan, the majority of the users are annual subscribers with tourists or other making up only 20% of the customers.  
 
 The most popular days to ride are weekdays.  The most popular weekday hours are 5 - 7 p.m. followed by 8 to 9 a.m.  The users ride on weekends during the midday hours and generally more often on Saturday than Sunday.  Thursday has the most frequent trips.  The data indicates that perhaps in the Manhattan area, the users ride to and from work.
