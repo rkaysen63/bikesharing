@@ -44,13 +44,13 @@ NYC Citi Bike Manhattan records for the month of August were analyzed in order t
     
 Over 2.3 million records were analyzed.  The data shows that males are more than twice as likely to ride as females.  In Manhattan, the majority of the users are annual subscribers with non-subscribers, such as tourists, making up only 20% of the customers.  
 
-The most popular days to ride are weekdays.  Any weekday has more riders than either weekend day.  Thursday is the most popular day to ride for both females and males.  The most popular weekday hours are 5 - 7 p.m. followed by 8 to 9 a.m.  Weekend riders tend to start their rides closer to the lunch hour and on into the afternoon.  There is more activity on Saturday than Sunday. The data suggests that many users ride to and from work.
+The most popular days to ride are weekdays.  Any weekday has more riders than either weekend day.  Thursday is the most popular day to ride. The most popular weekday hours are 5 - 7 p.m. followed by 8 to 9 a.m.  Weekend riders tend to start their rides closer to the lunch hour and on into the afternoon.  There is more activity on Saturday than Sunday. Popular ride times and days are the same for both males and females.  On the basis of usage, the data suggests that many users ride to and from work.
 
-The main costs associated with the proposal is the inital set-up and bike maintenance.  Initial set-up would include equipment purchases and app development.  Bike maintenance encompasses routine maintenance to keep the bikes in good working order, repair and possible replacement.  Routine maintence would required some bikes to be out of service.
+The main costs associated with the proposal is the inital set-up and bike maintenance.  Initial set-up would include equipment purchases and app development.  Bike maintenance encompasses routine maintenance to keep the bikes in good working order, repair and possible replacement.  Routine maintence would require that some bikes to be temporarily rotated out of service.
 
-While Des Moines does have some tourism, the data suggests that residents, particularly males, would be the target audience for such a proposal since 80% of the Manhattan users are subscribers.  
+The data suggests that residents, particularly males, would be the target audience for such a proposal since 80% of the Manhattan users are subscribers.  
 
-It may be prudent to evaluate bikesharing data for locations several different locations throughout the US to see if the data is consistent or if it changes due to location.  Manhattan is an area where its residents are used to transportation modes other than a car, but what about the mid-West?
+It may be prudent to evaluate bikesharing data for several different locations throughout the US to see if the data is consistent or if it changes due to location.  Manhattan is an area where its residents are used to transportation modes other than a car, but what about the mid-West? 
 
 ## Code:
 1. Create a DataFrame for the 201908-citibike-tripdata data.
