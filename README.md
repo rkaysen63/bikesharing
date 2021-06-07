@@ -1,5 +1,5 @@
-# bikesharing
-Tableau
+# Des Moines Bikesharing Proposal
+
 
 <p align="left">
   <img src="images/2011_surfing.png" width="100">
@@ -66,5 +66,11 @@ Tableau
 
         citibike_df.to_csv("Resources/201908_citibike_tripdata_revised.csv", index=False)      
         
+6. Import the new CSV file into a dataframe to confirm the export included the new tripduration column of datetime objects
 
+        citibike_df = pd.read_csv("Resources/201908_citibike_tripdata_revised.csv")
+        citibike_df.head()
+        
+ 
+***Insert photo of dataframe3 here
 [Back to the Table of Contents](https://github.com/rkaysen63/bikesharing/blob/master/README.md#table-of-contents)
