@@ -9,7 +9,7 @@
 
 ## Overview:
     
-NYC Citi Bike Manhattan records for the month of August were analyzed in order to determine most likely usage and users if a similar bikesharing plan were initiated in the city of Des Moines Iowa.  Bikeshare benefits include convenience, no maintenance to the user, ability to travel greater distances in a shorter time than walking and without the hassle of driving and parking a car.  Des Moines has various attractions to tourists such as a riverwalk.  Local subscribers would enjoy the convenience of travel between work and restaurants or home.
+NYC Citi Bike Manhattan records for the month of August were analyzed in order to determine the most likely usage and users if a similar bikesharing plan were initiated in the city of Des Moines Iowa.  Bikeshare benefits include convenience, no maintenance to the user, ability to travel greater distances in a shorter time than walking, ability to make frequent and impromptu stops, and no time wasted looking for a parking space.  Des Moines has various attractions to tourists such as a riverwalk.  Local subscribers would enjoy the convenience of travel between work and restaurants or home.
 
 ## Resources 
     
@@ -42,13 +42,15 @@ NYC Citi Bike Manhattan records for the month of August were analyzed in order t
 
 ## Summary:
     
-The data shows that males are more than twice as likely as females to ride.  In Manhattan, the majority of the users are annual subscribers with tourists or other making up only 20% of the customers.  
+Over 2.3 million records were analyzed.  The data shows that males are more than twice as likely to ride as females.  In Manhattan, the majority of the users are annual subscribers with non-subscribers, such as tourists, making up only 20% of the customers.  
 
-The most popular days to ride are weekdays.  The most popular weekday hours are 5 - 7 p.m. followed by 8 to 9 a.m.  The users ride on weekends during the midday hours and generally more often on Saturday than Sunday.  Thursday has the most frequent trips.  The data indicates that perhaps in the Manhattan area, the users ride to and from work.
+The most popular days to ride are weekdays.  Any weekday has more riders than either weekend day.  Thursday is the most popular day to ride for both females and males.  The most popular weekday hours are 5 - 7 p.m. followed by 8 to 9 a.m.  Weekend riders tend to start their rides closer to the lunch hour and on into the afternoon.  There is more activity on Saturday than Sunday. The data suggests that many users ride to and from work.
 
-The main costs associated with the proposal is the inital set up that include equipment purchases and app development and bike maintenance and repair.  Some bikes will require maintenance and repair more often than others in areas where usage tends to be higher.
+The main costs associated with the proposal is the inital set-up and bike maintenance.  Initial set-up would include equipment purchases and app development.  Bike maintenance encompasses routine maintenance to keep the bikes in good working order, repair and possible replacement.  Routine maintence would required some bikes to be out of service.
 
-My recommendation would to perform this analysis on several cities of various sizes and in different regions to truly understand if these relationships are consistent or regional before making any conclusions about its applicability to Des Moines.
+While Des Moines does have some tourism, the data suggests that residents, particularly males, would be the target audience for such a proposal since 80% of the Manhattan users are subscribers.  
+
+It may be prudent to evaluate bikesharing data for locations several different locations throughout the US to see if the data is consistent or if it changes due to location.  Manhattan is an area where its residents are used to transportation modes other than a car, but what about the mid-West?
 
 ## Code:
 1. Create a DataFrame for the 201908-citibike-tripdata data.
