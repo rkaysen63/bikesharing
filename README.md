@@ -1,6 +1,6 @@
 # bikesharing
 Tableau
-# surfs_up
+
 <p align="left">
   <img src="images/2011_surfing.png" width="100">
 </p>
@@ -17,8 +17,14 @@ Tableau
 ## Resources 
 
 * Data: https://www.citibikenyc.com/system-data
-* Software: Tableau
+* Tools: 
+  * Tableau
+  * Jupyter Notebook
+  * Python import Pandas
 * Lesson Plan: UTA-VIRT-DATA-PT-02-2021-U-B-TTH, Module 14 Challenge
+* Acknowledgements:
+  * Des Moines Skyline Photo from:  https://en.wikipedia.org/wiki/Downtown_Des_Moines#/media/File:Skyline_downtown_Des_Moines.jpg
+  * Attributed to By BarbaraLN - Flickr: Skyline, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=17089434
 
 ## Results:
 
